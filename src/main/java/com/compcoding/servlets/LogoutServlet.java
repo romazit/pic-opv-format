@@ -1,4 +1,4 @@
-package com.mechosystems.servlets;
+package com.compcoding.servlets;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

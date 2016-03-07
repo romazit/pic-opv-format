@@ -3,13 +3,10 @@
 <glassfish-web-app error-url="">
   <security-role-mapping>
     <role-name>administrator</role-name>
-    <principal-name>romanm</principal-name>
+    <principal-name>***</principal-name>
   </security-role-mapping>
-  <!--property name="alternatedocroot_1" value="from=/* dir=C:/tmp/"/-->
   <security-role-mapping>
     <role-name>user</role-name>
-    <principal-name>Yevgeniy</principal-name>
-    <principal-name>peterl</principal-name>
-    <principal-name>romanm1</principal-name>
+    <principal-name>***</principal-name>
   </security-role-mapping>
 </glassfish-web-app>

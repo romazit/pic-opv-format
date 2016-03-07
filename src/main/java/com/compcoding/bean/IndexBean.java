@@ -1,4 +1,4 @@
-package com.mechosystems.bean;
+package com.compcoding.bean;
 
 import java.util.NavigableMap;
 import java.util.TreeMap;
